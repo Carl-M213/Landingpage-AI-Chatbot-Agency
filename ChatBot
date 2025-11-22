@@ -1,0 +1,79 @@
+<!DOCTYPE html><html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dental AI Concierge – Ihre Praxis, intelligent unterstützt</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f6f6f8; color: #333; }
+    header { background: #0d6efd; color: white; padding: 60px 20px; text-align: center; }
+    h1 { margin: 0 0 10px; font-size: 42px; }
+    h2 { font-size: 28px; color: #0d6efd; }
+    .section { padding: 60px 20px; max-width: 1100px; margin: auto; }
+    .features { display: grid; gap: 30px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+    .card { background: white; padding: 30px; border-radius: 16px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); }
+    .cta { background: #0d6efd; color: white; padding: 14px 26px; text-decoration: none; border-radius: 8px; display: inline-block; margin-top: 20px; font-size: 18px; }
+    footer { background: #111; color: white; padding: 40px 20px; text-align: center; margin-top: 60px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dental AI Concierge</h1>
+    <p>Der intelligente, empathische und professionelle KI-ChatBot für moderne Zahnarztpraxen.</p>
+    <a href="#kontakt" class="cta">Jetzt Demo anfragen</a>
+  </header>  <section class="section">
+    <h2>Warum ein KI‑ChatBot für Ihre Zahnarztpraxis?</h2>
+    <p>Der Dental AI Concierge unterstützt Ihre Praxis rund um die Uhr, beantwortet Patientenfragen, entlastet Ihr Team und steigert gleichzeitig die Servicequalität. Professionell, zuverlässig und vollständig auf Ihre Praxis individualisiert.</p>
+  </section>  <section class="section">
+    <h2>Leistungsübersicht</h2>
+    <div class="features">
+      <div class="card">
+        <h3>24/7 Patientenservice</h3>
+        <p>Sofortige Antworten auf die wichtigsten Fragen – von Öffnungszeiten über Behandlungen bis hin zu Kostenthemen.</p>
+      </div>
+      <div class="card">
+        <h3>Terminvorbereitung</h3>
+        <p>Der Bot sammelt alle relevanten Daten vor, sodass Ihr Team perfekt vorbereitet ist.</p>
+      </div>
+      <div class="card">
+        <h3>Empathische Patientenbegleitung</h3>
+        <p>Ideal für Angstpatienten, Kinder oder Patienten mit vielen Fragen. Ruhig, freundlich, erklärend.</p>
+      </div>
+      <div class="card">
+        <h3>Behandlungsaufklärung</h3>
+        <p>Allgemeine und leicht verständliche Erklärungen zu allen gängigen zahnärztlichen Leistungen.</p>
+      </div>
+      <div class="card">
+        <h3>Notfall- & Schmerzprotokoll</h3>
+        <p>Sanfte Orientierung bei Beschwerden – ohne Diagnose, aber klar strukturiert und beruhigend.</p>
+      </div>
+      <div class="card">
+        <h3>Volle Individualisierung</h3>
+        <p>Praxisspezifische Infos wie Team, Leistungen, Standort, Parken, Spezialisierungen u.v.m.</p>
+      </div>
+    </div>
+  </section>  <section class="section">
+    <h2>Was macht den Dental AI Concierge einzigartig?</h2>
+    <ul>
+      <li>Premium-Qualität – entwickelt nach Agenturstandard</li>
+      <li>Professionelle Kommunikation auf medizinischem Niveau</li>
+      <li>Perfektes Verständnis für Patientenbedürfnisse</li>
+      <li>Ideal für Webseiten, WhatsApp, Messenger & Telefon-IVR</li>
+      <li>Mehr Entlastung für Ihr Team – weniger Rundrufe und E-Mails</li>
+    </ul>
+  </section>  <section class="section" id="kontakt">
+    <h2>Preis & Leistungsumfang</h2>
+    <p>Die gesamte Premium-Konfiguration erhalten Sie als einmaliges Paket:</p>
+    <h3 style="font-size: 34px; margin: 20px 0;">1.000 € – Komplettpaket</h3>
+    <ul>
+      <li>Vollständiges Premium-Prompt (Enterprise‑Version)</li>
+      <li>Individuelle Anpassung an Ihre Praxis</li>
+      <li>Einrichtung in ChatGPT, WhatsApp oder Ihrer Website</li>
+      <li>Onboarding für Ihr Team</li>
+      <li>1:1 Feinabstimmung nach Ihren Wünschen</li>
+    </ul>
+    <a href="mailto:praxis@beispiel.de" class="cta">Jetzt unverbindlich anfragen</a>
+  </section>  <footer>
+    <p>Dental AI Concierge – Moderne Patientenkommunikation für innovative Zahnarztpraxen.</p>
+  </footer>
+</body>
+</html>
